@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-* 🤖 **AI/ML Intern** at Intellivate Technologies [cite: 14, 15] [cite_start]focused on automation pipelines and model training.
+* 🤖 **AI/ML Intern** at Intellivate Technologies Pvt. Ltd. focused on automation pipelines and model training.
 * 🚀 Built **RetailWise**, an AI retail analytics system with an LLM-based query interface.
-* ☁️ Certified **Oracle Data Science Professional** [cite: 32] [cite_start]and **Google AI Essentials** holder.
+* ☁️ Certified **Oracle Data Science Professional** and **Google AI Essentials** holder.
 
 ---
 
@@ -57,6 +57,6 @@
 <br />
 
 <p align="center">
-  ⭐ <i>Focused on building systems that scale and learning something new every day.</i>
+  ⭐ <i> Passionate about creating scalable solutions and growing through continuous learning every single day.
 </p>
   
