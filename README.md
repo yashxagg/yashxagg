@@ -34,7 +34,8 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,aws,streamlit" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,aws,streamlit" /
+
 </p>
 
 
@@ -42,8 +43,8 @@
 
 ## 📜 Certifications
 * 🎖️ **Oracle Data Science Professional** 
-* 🎖️ **Google AI Essentials** [cite: 30] [cite_start]& **Google Data Analytics** 
-* 🎖️ **IBM GenAI** [cite: 31] [cite_start]& **Tata Forage GenAI Simulation**
+* 🎖️ **Google AI Essentials** & **Google Data Analytics** 
+* 🎖️ **IBM GenAI** & **Tata Forage GenAI Simulation**
 * 🎖️ **Applied Machine Learning (Coursera)**
 
 ---
