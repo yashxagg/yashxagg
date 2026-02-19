@@ -53,6 +53,7 @@
 * 📈 **Stock Market Forecaster:** A real-time prediction app built with **LSTM** and deployed on **Streamlit**.
 * 🔍 **Agentic Research App:** An AI agent using **RAG** (Groq + FAISS) for intelligent document search.
 * 📦 **RetailWise & AgriVision:** Academic projects focused on solving real-world domain problems.
+*  **Many more to come....**
 
 
 <br />
