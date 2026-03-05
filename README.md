@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Aggarwal</h1>
+<h1 align="center">Hi, I'm Yash Aggarwal</h1>
 
 <p align="center">
   <strong>AI/ML Developer | Data Science • Generative AI • Agentic Systems</strong>
@@ -37,6 +37,15 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,aws,streamlit" /
 
 </p>
+
+### 🏆 My Coding Stats
+<a href="https://www.kaggle.com/YashxAggarwal">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile">
+</a>
+
+<a href="https://leetcode.com/yashxagg">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile">
+</a>
 
 
 ---
