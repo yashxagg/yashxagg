@@ -46,7 +46,9 @@
 <a href="https://leetcode.com/yashxagg">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Profile">
 </a>
-
+<a href="https://www.hackerrank.com/profile/yashaggarwal812">
+  <img src="https://img.shields.io/badge/-HackerRank-27BA5E?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Profile">
+</a>
 
 ---
 
