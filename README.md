@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Yash Aggarwal</h1>
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=45&center=true&vCenter=true&width=600&lines=YASH+AGGARWAL" />
+</h1>
+
+</div>
 
 <p align="center">
   <strong>AI/ML Developer | Data Science • Generative AI • Agentic Systems</strong>
@@ -20,23 +26,16 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack Dashboard
 
-### 💻 Languages & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,powershell," />
-</p>
+| Category | Skills | Category | Skills |
+| :--- | :--- | :--- | :--- |
+| **💻 Programming Languages** | <img src="https://skillicons.dev/icons?i=py,java" /> | **🤖 Generative AI** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> |
+| **📊 Machine Learning** | <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> | **🔗 LLM Frameworks** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=googlegemini&logoColor=white" /> |
+| **🧠 Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> | **🧩 LangChain Ecosystem** | <img src="https://img.shields.io/badge/Agents-0052FF?style=flat" /> <img src="https://img.shields.io/badge/RAG-74AF27?style=flat" /> |
+| **📈 Data Science** | <img src="https://img.shields.io/badge/EDA-FFD700?style=flat&logo=analysis&logoColor=black" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat&logo=python&logoColor=white" /> | **🛠️ Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" /> |
 
-### 🧠 AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,aws,streamlit" /
-
-</p>
+---
 
 ### 🏆 My Coding Stats
 <a href="https://www.kaggle.com/YashxAggarwal">
@@ -52,24 +51,26 @@
 
 ---
 
-## 📜 Certifications
-* 🎖️ **Oracle Data Science Professional** 
-* 🎖️ **Google AI Essentials** & **Google Data Analytics** 
-* 🎖️ **IBM GenAI** & **Tata Forage GenAI Simulation**
-* 🎖️ **Applied Machine Learning (Coursera)**
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashxagg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashxagg&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Shipped Projects
-* 📈 **Stock Market Forecaster:** A real-time prediction app built with **LSTM** and deployed on **Streamlit**.
-* 🔍 **Agentic Research App:** An AI agent using **RAG** (Groq + FAISS) for intelligent document search.
-* 📦 **RetailWise & AgriVision:** Academic projects focused on solving real-world domain problems.
-*  **Many more to come....**
-
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashxagg&theme=tokyo-night" />
+</p>
+  
+---
 
 <br />
 
 <p align="center">
   ⭐ <i> Passionate about creating scalable solutions and growing through continuous learning every single day.
 </p>
-  
+<div align="center">
+
