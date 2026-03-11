@@ -54,16 +54,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashxagg&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashxagg&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yashxagg&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashxagg&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashxagg&theme=tokyo-night" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashxagg&theme=github-dark"/>
   
 ---
 
